@@ -1,0 +1,48 @@
+
+h1{
+    padding-left: 38%;
+    padding-top: 25%;
+    font-size: 80px;
+}
+
+#value{
+    font-size: 45px;
+    padding-left: 48%;
+    padding-top: 15%;
+}
+
+.button-container{
+    margin-top: 2%;
+    padding-left: 34%;
+}
+
+.btn{
+    font-size: 30px;
+}
+
+.decrease{
+    border: 2px solid red;
+}
+
+.decrease:hover{
+    background-color: red;
+    color: white;
+}
+
+.reset{
+    border: 2px solid black;
+}
+
+.reset:hover{
+    background-color: black;
+    color: white;
+}
+
+.increase{
+    border: 2px solid green;
+}
+
+.increase:hover{
+    background-color: green;
+    color: white;
+}
